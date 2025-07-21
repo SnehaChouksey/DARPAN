@@ -11,7 +11,7 @@ It offers a visually rich experience with smooth animations and is best viewed o
 - Shery.js
 
 ## View Live
-👉 [https://SnehaChouksey.github.io/darpan-art-studio](https://SnehaChouksey.github.io/darpan-art-studio)
+👉  https://snehachouksey.github.io/DARPAN/
 
 > ⚠️ Mobile support is basic — full features and animations are optimized for desktop view only.
 
