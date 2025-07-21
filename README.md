@@ -3,7 +3,7 @@
 A desktop-first art studio website crafted using **HTML**, **CSS**, **JavaScript**, **GSAP**, and **Locomotive Scroll**.  
 It offers a visually rich experience with smooth animations and is best viewed on larger screens.
 
-> ⚡ Inspired by award-winning creative websites — Obys Agency(https://obys.agency), known for their bold storytelling and experimental web design.
+> ⚡ Inspired by award-winning creative websites — Obys Agency, known for their bold storytelling and experimental web design.
 
 ## 🚀 Tech Stack
 - HTML5, CSS3
